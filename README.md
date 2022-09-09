@@ -1,4 +1,4 @@
 # SamPython
 
 
-Data Cleaning Woth Python and claseed based Methods
+Data Cleaning With Python and claseed based Methods
